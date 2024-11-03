@@ -1,3 +1,3 @@
-UTS Pemrograman 1
-<div>Muhamad Aliyudin</div>
-<div>221011400108</div>
+<div>Bagus Taufik Hidayat</div>
+<div>221011400105</div>
+<div>05TPLE003</div>
